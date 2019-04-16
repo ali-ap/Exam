@@ -1,0 +1,9 @@
+E:\Exam\Exam.Facet\bin\Debug\netstandard2.0\Exam.Facet.deps.json
+E:\Exam\Exam.Facet\bin\Debug\netstandard2.0\Exam.Facet.dll
+E:\Exam\Exam.Facet\bin\Debug\netstandard2.0\Exam.Facet.pdb
+E:\Exam\Exam.Facet\obj\Debug\netstandard2.0\Exam.Facet.csproj.CoreCompileInputs.cache
+E:\Exam\Exam.Facet\obj\Debug\netstandard2.0\Exam.Facet.AssemblyInfoInputs.cache
+E:\Exam\Exam.Facet\obj\Debug\netstandard2.0\Exam.Facet.AssemblyInfo.cs
+E:\Exam\Exam.Facet\obj\Debug\netstandard2.0\Exam.Facet.dll
+E:\Exam\Exam.Facet\obj\Debug\netstandard2.0\Exam.Facet.pdb
+E:\Exam\Exam.Facet\obj\Debug\netstandard2.0\Exam.Facet.csprojAssemblyReference.cache

@@ -1,0 +1,8 @@
+E:\Exam\Exam.Toolbox\bin\Debug\netstandard2.0\Exam.Toolbox.deps.json
+E:\Exam\Exam.Toolbox\bin\Debug\netstandard2.0\Exam.Toolbox.dll
+E:\Exam\Exam.Toolbox\bin\Debug\netstandard2.0\Exam.Toolbox.pdb
+E:\Exam\Exam.Toolbox\obj\Debug\netstandard2.0\Exam.Toolbox.csproj.CoreCompileInputs.cache
+E:\Exam\Exam.Toolbox\obj\Debug\netstandard2.0\Exam.Toolbox.AssemblyInfoInputs.cache
+E:\Exam\Exam.Toolbox\obj\Debug\netstandard2.0\Exam.Toolbox.AssemblyInfo.cs
+E:\Exam\Exam.Toolbox\obj\Debug\netstandard2.0\Exam.Toolbox.dll
+E:\Exam\Exam.Toolbox\obj\Debug\netstandard2.0\Exam.Toolbox.pdb

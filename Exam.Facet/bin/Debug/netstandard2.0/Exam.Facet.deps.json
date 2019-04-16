@@ -1,0 +1,75 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": "be34f66be9648da33884bcd7583f26f3768bddf5"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "Exam.Facet/1.0.0": {
+        "dependencies": {
+          "MethodBoundaryAspect.Fody": "2.0.113",
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "Exam.Facet.dll": {}
+        }
+      },
+      "Fody/3.3.0": {},
+      "MethodBoundaryAspect.Fody/2.0.113": {
+        "dependencies": {
+          "Fody": "3.3.0",
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "lib/netstandard1.0/MethodBoundaryAspect.dll": {
+            "assemblyVersion": "2.0.113.0",
+            "fileVersion": "2.0.113.0"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exam.Facet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Fody/3.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YH2OsLciberI1yrIPUv06OAuI0OjgxKK/WWXc687qWm3rxZwL6G6g0breI8FNXJ6HtvTQdK9x42xJsJTfei8ng==",
+      "path": "fody/3.3.0",
+      "hashPath": "fody.3.3.0.nupkg.sha512"
+    },
+    "MethodBoundaryAspect.Fody/2.0.113": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ETE38XVZ5QJJVaY3vr2wSRzfn/1FZO8K/i4JFpodePFfDe61MO9noe4nAhEO17L/hLbkevLxIv42cl5pcpL7cQ==",
+      "path": "methodboundaryaspect.fody/2.0.113",
+      "hashPath": "methodboundaryaspect.fody.2.0.113.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    }
+  }
+}

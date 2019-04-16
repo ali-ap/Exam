@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MethodBoundaryAspect.Fody" Version="2.0.113" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Exam.Contract\Exam.Contract.csproj" />
+    <ProjectReference Include="..\Exam.Domain\Exam.Domain.csproj" />
+    <ProjectReference Include="..\Exam.Facet\Exam.Facet.csproj" />
+    <ProjectReference Include="..\Exam.Mapper\Exam.Mapper.csproj" />
+    <ProjectReference Include="..\Exam.Repository\Exam.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
